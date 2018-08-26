@@ -25,7 +25,7 @@ This is the fourth project of MADE course in dicoding.com academy. This project 
 2. [JustifiedTextView](https://github.com/amilcar-sr/JustifiedTextView) - JustifiedTextView is an Android View that justifies the Text!
 3. [CircleImageView by hdodenhof](https://github.com/hdodenhof/CircleImageView) - A fast circular ImageView perfect for profile images
 4. [Butter Knife](http://jakewharton.github.io/butterknife/) - Field and method binding for Android views
-5. [Retrofit] (https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
+5. [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
 
 
 # Please be Noted
